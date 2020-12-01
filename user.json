@@ -1,0 +1,22 @@
+[{
+    "id" : "1",
+    "name": "One Uno",
+    "email": "one@email.com",
+    "number": "0244444444"
+},
+
+{
+    "id" : "2",
+    "name": "Two Dos",
+    "email": "two@email.com",
+    "number": "0544444444"
+},
+
+{
+    "id" : "3",
+    "name": "Three Tres",
+    "email": "three@email.com",
+    "number": "0599999999"
+}
+
+]
